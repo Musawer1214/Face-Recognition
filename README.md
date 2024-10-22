@@ -97,13 +97,13 @@ These dependencies are necessary for running the project smoothly. Ensure that a
 ## File Structure
 ```
 face-recognition-system/
-├── main.py                  # Main file to run the application
+├── face_box.py                  # Main file to run the application
 ├── embedding_database.pkl   # Stores known face embeddings
 ├── requirements.txt         # List of dependencies
 └── README.md                # Documentation (this file)
 ```
 
-- **`main.py`**: Contains the core logic for face detection, face embedding extraction, and GUI implementation. This script serves as the entry point to the application.
+- **`face_box.py`**: Contains the core logic for face detection, face embedding extraction, and GUI implementation. This script serves as the entry point to the application.
 - **`embedding_database.pkl`**: A serialized dictionary that stores face embeddings in a key-value pair format, where the key is the name of the individual and the value is the corresponding embedding vector.
 - **`requirements.txt`**: Lists all the dependencies required for the project, ensuring that users can set up their environment quickly and without hassle.
 
