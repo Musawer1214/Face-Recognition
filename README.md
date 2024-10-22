@@ -29,8 +29,8 @@ To get started with the project, follow these instructions:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/face-recognition-system.git
-    cd face-recognition-system
+    git clone https://github.com/Musawer1214/Face-Recognition-System.git
+    cd Face-Recognition-System
     ```
 
 2. **Install Dependencies**:
@@ -38,7 +38,7 @@ To get started with the project, follow these instructions:
     ```sh
     python -m venv venv
     source venv/bin/activate  # On Windows: venv\Scriptsctivate
-    pip install -r requirements.txt
+    
     ```
 
 3. **Download Pre-trained Models**:
