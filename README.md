@@ -48,7 +48,7 @@ To get started with the project, follow these instructions:
 Run the script to launch the graphical interface for face recognition:
 
 ```sh
-python main.py
+python face_box.py
 ```
 
 The GUI is designed with simplicity in mind, allowing users to perform tasks without any prior experience in computer vision. Once you run the script, you will be presented with a simple interface that provides access to all functionalities.
