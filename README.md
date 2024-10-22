@@ -4,7 +4,7 @@ A face recognition system that can enroll and recognize faces using webcam or im
 
 The aim of this project is to provide an easy-to-use, user-friendly interface that allows individuals to explore the possibilities of face recognition technology. Whether you are a student, developer, or enthusiast, this project provides a comprehensive solution to learn about facial recognition using some of the most popular deep learning frameworks available today. You can quickly register new faces in the system and then recognize them from a live feed or image files, making this project suitable for practical applications like attendance systems, door access management, and more.
 
-# Main Python Code (Project) is in face_box.py all others are just testing multiple functions, main file is as mentioned "face_box.py" for testing it
+# Imprtant Note: Main Python Code (Project) is in face_box.py all others are just testing multiple functions, main file is as mentioned "face_box.py" for testing it
 
 ## Features
 - **Add New Face:** Register a new person using a webcam or from an image file, with an easy-to-follow workflow that guides the user through the process.
