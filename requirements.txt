@@ -1,0 +1,8 @@
+opencv-python
+numpy
+torch
+torchvision
+facenet_pytorch
+retinaface
+Pillow
+tk
